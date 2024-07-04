@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahesh-1919&label=Profile%20views&color=0e75b6&style=flat" alt="mahesh-1919" /> </p>
 
-- 💬 Ask me about **Python,AWS,HTML,CSS,Javascript,React.js,Next.js,Tailwing**
+- 💬 Ask me about **Python,AWS,HTML,CSS,Javascript,React.js,Next.js,Tailwind**
 
 - 📫 How to reach me **Maheshjyothula23@gmail.com**
 
